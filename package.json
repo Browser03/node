@@ -7,6 +7,9 @@
     "example",
     "heroku"
   ],
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "jane-doe",
   "license": "MIT",
   "dependencies": {
